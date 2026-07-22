@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kopalkaushiki/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kopalkaushiki/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
