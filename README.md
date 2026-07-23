@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kopalkaushiki/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/kopalkaushiki/LeetCode/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/kopalkaushiki/LeetCode/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/kopalkaushiki/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/kopalkaushiki/LeetCode/tree/master/0595-big-countries) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
