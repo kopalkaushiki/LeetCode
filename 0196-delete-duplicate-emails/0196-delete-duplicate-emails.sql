@@ -1,6 +1,9 @@
 # Write your MySQL query statement below
 #used inner join as self join
-DELETE p1
-FROM Person p1 INNER JOIN Person p2
-WHERE p1.email=p2.email AND
-p1.id>p2.id;
+WITH my_cte as(
+    SELECT email, min(id) as id_to_keep
+    FROM Person
+    GROUP BY email
+)
+DELETE FROM Person
+WHERE id not in(SELECT id_to_keep FROM my_cte);
