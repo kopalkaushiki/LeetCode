@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/kopalkaushiki/LeetCode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
