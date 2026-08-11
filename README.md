@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/kopalkaushiki/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kopalkaushiki/LeetCode/tree/master/0198-house-robber) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kopalkaushiki/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1572-matrix-diagonal-sum](https://github.com/kopalkaushiki/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kopalkaushiki/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kopalkaushiki/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kopalkaushiki/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kopalkaushiki/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String Matching
 |  |
