@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kopalkaushiki/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/kopalkaushiki/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kopalkaushiki/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kopalkaushiki/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kopalkaushiki/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
@@ -139,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
