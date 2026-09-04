@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/kopalkaushiki/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/kopalkaushiki/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kopalkaushiki/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/kopalkaushiki/LeetCode/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kopalkaushiki/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kopalkaushiki/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Dynamic Programming
