@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kopalkaushiki/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kopalkaushiki/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/kopalkaushiki/LeetCode/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kopalkaushiki/LeetCode/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kopalkaushiki/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kopalkaushiki/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
