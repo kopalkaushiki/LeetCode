@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kopalkaushiki/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/kopalkaushiki/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kopalkaushiki/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kopalkaushiki/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/kopalkaushiki/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kopalkaushiki/LeetCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/kopalkaushiki/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
