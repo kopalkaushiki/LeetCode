@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kopalkaushiki/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kopalkaushiki/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kopalkaushiki/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kopalkaushiki/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kopalkaushiki/LeetCode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kopalkaushiki/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
