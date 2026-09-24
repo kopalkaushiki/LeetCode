@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kopalkaushiki/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kopalkaushiki/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kopalkaushiki/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kopalkaushiki/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kopalkaushiki/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/kopalkaushiki/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kopalkaushiki/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/kopalkaushiki/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/kopalkaushiki/LeetCode/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kopalkaushiki/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kopalkaushiki/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
