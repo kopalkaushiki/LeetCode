@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/kopalkaushiki/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/kopalkaushiki/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kopalkaushiki/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kopalkaushiki/LeetCode/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kopalkaushiki/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kopalkaushiki/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kopalkaushiki/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/kopalkaushiki/LeetCode/tree/master/0198-house-robber) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kopalkaushiki/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kopalkaushiki/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
