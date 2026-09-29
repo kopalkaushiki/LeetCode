@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kopalkaushiki/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kopalkaushiki/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kopalkaushiki/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kopalkaushiki/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/kopalkaushiki/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/kopalkaushiki/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
@@ -209,12 +211,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kopalkaushiki/LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kopalkaushiki/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kopalkaushiki/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
