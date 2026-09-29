@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kopalkaushiki/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kopalkaushiki/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/kopalkaushiki/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -208,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kopalkaushiki/LeetCode/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kopalkaushiki/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kopalkaushiki/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
